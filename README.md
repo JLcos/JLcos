@@ -19,7 +19,6 @@
 <a title="Excel"><img align="center" alt="Excel" height="30" width="40" src="./assets/excel.svg"></a>
 <a title="Word"><img align="center" alt="Word" height="30" width="40" src="./assets/word.svg"></a>
 <a title="PPT"><img align="center" alt="PPT" height="30" width="40" src="./assets/ppt.svg"></a>
-<a title="Gemini"><img align="center" alt="Gemini" height="30" width="40" src="./assets/gemini.svg"></a>
 </div>
 
 ###
