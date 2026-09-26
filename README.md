@@ -1,9 +1,9 @@
-<h2 align="left">👋 Olá, eu sou o João Lucas!</h2>
+<h2 align="left">👋 Olá, eu sou João Lucas!</h2>
 
 <br>
 
 <p align="left">
-  Estudante de tecnologia com foco em Desenvolvimento Front-end. Possuo sólidos conhecimentos em tecnologias de interface (HTML/CSS), design de experiência do usuário (Figma) e produtividade avançada com o uso de Inteligência Artificial. Busco minha primeira oportunidade profissional para aplicar minha capacidade de aprendizado rápido, organização e resiliência na criação de soluções digitais modernas e eficientes.
+  Estudante de tecnologia com foco em Desenvolvimento Front-end. Possuo conhecimentos em tecnologias de interface (HTML/CSS), design de experiência do usuário (Figma) e produtividade avançada com o uso de Inteligência Artificial.
 </p>
 
 ###
